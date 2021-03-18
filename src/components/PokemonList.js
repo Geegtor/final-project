@@ -31,7 +31,6 @@ const PokemonList = () => {
                                 <img src={`/Img/${el.id}.png`}/>
                             </div>
                             <p>{el.name}</p>
-                            <p>{el.id}</p> 
                             <button>
                                 <Link to={`/pokemon/${el.name}`}>View</Link>
                             </button>
