@@ -1,0 +1,170 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: rgb(66, 186, 241);
+  min-width: 300px;
+
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+}
+/* *__________HEADER____________* */
+header {
+  display: flex;
+  justify-content: center;
+
+  color: white;
+  font-size: calc(30px + 2vmin);
+  font-weight: 900;
+
+  letter-spacing: 50px;
+}
+
+@media screen and (max-width: 600px) {
+  header {
+    letter-spacing: normal;
+    font-size: calc(20px + 1vmin);
+    font-weight: 800;
+    letter-spacing: normal;
+  }
+}
+
+nav {
+  width: 80%;
+  font-size: calc(15px + 2vmin); 
+
+  display: flex;
+  flex-direction: row;
+
+  align-items: center;
+  justify-content: flex-end;
+
+  color: black;
+  margin: auto;
+  padding: 10px 5px;
+}
+
+@media screen and (max-width: 600px) {
+  nav {
+    flex-direction: column;
+    background-color: rgb(66, 186, 241);
+  }
+}
+
+nav a {
+  background: rgb(255, 255, 255);
+  -webkit-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
+  -moz-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
+
+  font-size: 25px;
+  text-align: center;
+
+  width: 50%;
+  min-height: 30px;
+  text-decoration: none;
+
+  border: 1px solid black;
+  border-radius: 15px;
+
+  padding: 5px 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+@media screen and (max-width: 600px) {
+  nav a {
+    margin-top: 1vh;
+    min-height: 20px;
+    font-size: 15px;
+    width: 100%;
+  }
+}
+
+/* *__________MAIN____________* */
+
+section {
+  font-size: calc(15px + 2vmin);
+  width: 80%;
+}
+
+.container {	
+  display: flex;
+  flex-direction: row;
+
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  background:rgb(237, 241, 233);
+
+  width: 80%;
+
+  min-height: 70vh;
+  
+  margin: auto;
+  padding: 10px 5px;
+
+  border-radius: 16px;
+  border: 1px solid black;
+}
+
+.pokemons {
+  position: relative;
+  padding: 10px 20px;
+  margin: 20px 10px;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+
+  &__pokemon-list {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    justify-content: center;
+
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+button{
+  text-decoration: none;
+  margin: 10px 10px;
+  margin-left: auto;
+  margin-right: auto;
+  right: 0;
+  bottom: 20vh;
+}
+
+.row::after {
+  content: '';
+  display: block;
+  clear: both;
+}
+  
+.row {
+  background: rgba(208, 218, 203, 0.878);
+  margin: auto auto;
+  padding: 1%;
+  max-width: 915px;;
+
+  border-radius: 16px;
+  border: 1px solid black;
+}
+
+
+
+
+
+
+
+.left {
+  float: left;
+}
+

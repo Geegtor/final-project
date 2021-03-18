@@ -1,3800 +1,2884 @@
 {
   "pokemons": [
     {
-      "name": "bulbasaur",
+      "name": "bulbasaur", "cought": "Nope",
       "id": 1
     },
     {
-      "name": "ivysaur",
+      "name": "ivysaur", "cought": "Nope",
       "id": 2
     },
     {
-      "name": "venusaur",
+      "name": "venusaur", "cought": "Nope",
       "id": 3
     },
     {
-      "name": "charmander",
+      "name": "charmander", "cought": "Nope",
       "id": 4
     },
     {
-      "name": "charmeleon",
+      "name": "charmeleon", "cought": "Nope",
       "id": 5
     },
     {
-      "name": "charizard",
+      "name": "charizard", "cought": "Nope",
       "id": 6
     },
     {
-      "name": "squirtle",
+      "name": "squirtle", "cought": "Nope",
       "id": 7
     },
     {
-      "name": "wartortle",
+      "name": "wartortle", "cought": "Nope",
       "id": 8
     },
     {
-      "name": "blastoise",
+      "name": "blastoise", "cought": "Nope",
       "id": 9
     },
     {
-      "name": "caterpie",
+      "name": "caterpie", "cought": "Nope",
       "id": 10
     },
     {
-      "name": "metapod",
+      "name": "metapod", "cought": "Nope",
       "id": 11
     },
     {
-      "name": "butterfree",
+      "name": "butterfree", "cought": "Nope",
       "id": 12
     },
     {
-      "name": "weedle",
+      "name": "weedle", "cought": "Nope",
       "id": 13
     },
     {
-      "name": "kakuna",
+      "name": "kakuna", "cought": "Nope",
       "id": 14
     },
     {
-      "name": "beedrill",
+      "name": "beedrill", "cought": "Nope",
       "id": 15
     },
     {
-      "name": "pidgey",
+      "name": "pidgey", "cought": "Nope",
       "id": 16
     },
     {
-      "name": "pidgeotto",
+      "name": "pidgeotto", "cought": "Nope",
       "id": 17
     },
     {
-      "name": "pidgeot",
+      "name": "pidgeot", "cought": "Nope",
       "id": 18
     },
     {
-      "name": "rattata",
+      "name": "rattata", "cought": "Nope",
       "id": 19
     },
     {
-      "name": "raticate",
+      "name": "raticate", "cought": "Nope",
       "id": 20
     },
     {
-      "name": "spearow",
+      "name": "spearow", "cought": "Nope",
       "id": 21
     },
     {
-      "name": "fearow",
+      "name": "fearow", "cought": "Nope",
       "id": 22
     },
     {
-      "name": "ekans",
+      "name": "ekans", "cought": "Nope",
       "id": 23
     },
     {
-      "name": "arbok",
+      "name": "arbok", "cought": "Nope",
       "id": 24
     },
     {
-      "name": "pikachu",
+      "name": "pikachu", "cought": "Cought",
       "id": 25
     },
     {
-      "name": "raichu",
+      "name": "raichu", "cought": "Nope",
       "id": 26
     },
     {
-      "name": "sandshrew",
+      "name": "sandshrew", "cought": "Nope",
       "id": 27
     },
     {
-      "name": "sandslash",
+      "name": "sandslash", "cought": "Nope",
       "id": 28
     },
     {
-      "name": "nidoran-f",
+      "name": "nidoran-f", "cought": "Nope",
       "id": 29
     },
     {
-      "name": "nidorina",
+      "name": "nidorina", "cought": "Nope",
       "id": 30
     },
     {
-      "name": "nidoqueen",
+      "name": "nidoqueen", "cought": "Nope",
       "id": 31
     },
     {
-      "name": "nidoran-m",
+      "name": "nidoran-m", "cought": "Nope",
       "id": 32
     },
     {
-      "name": "nidorino",
+      "name": "nidorino", "cought": "Nope",
       "id": 33
     },
     {
-      "name": "nidoking",
+      "name": "nidoking", "cought": "Nope",
       "id": 34
     },
     {
-      "name": "clefairy",
+      "name": "clefairy", "cought": "Nope",
       "id": 35
     },
     {
-      "name": "clefable",
+      "name": "clefable", "cought": "Nope",
       "id": 36
     },
     {
-      "name": "vulpix",
+      "name": "vulpix", "cought": "Nope",
       "id": 37
     },
     {
-      "name": "ninetales",
+      "name": "ninetales", "cought": "Nope",
       "id": 38
     },
     {
-      "name": "jigglypuff",
+      "name": "jigglypuff", "cought": "Nope",
       "id": 39
     },
     {
-      "name": "wigglytuff",
+      "name": "wigglytuff", "cought": "Nope",
       "id": 40
     },
     {
-      "name": "zubat",
+      "name": "zubat", "cought": "Nope",
       "id": 41
     },
     {
-      "name": "golbat",
+      "name": "golbat", "cought": "Nope",
       "id": 42
     },
     {
-      "name": "oddish",
+      "name": "oddish", "cought": "Nope",
       "id": 43
     },
     {
-      "name": "gloom",
+      "name": "gloom", "cought": "Nope",
       "id": 44
     },
     {
-      "name": "vileplume",
+      "name": "vileplume", "cought": "Nope",
       "id": 45
     },
     {
-      "name": "paras",
+      "name": "paras", "cought": "Nope",
       "id": 46
     },
     {
-      "name": "parasect",
+      "name": "parasect", "cought": "Nope",
       "id": 47
     },
     {
-      "name": "venonat",
+      "name": "venonat", "cought": "Nope",
       "id": 48
     },
     {
-      "name": "venomoth",
+      "name": "venomoth", "cought": "Nope",
       "id": 49
     },
     {
-      "name": "diglett",
+      "name": "diglett", "cought": "Nope",
       "id": 50
     },
     {
-      "name": "dugtrio",
+      "name": "dugtrio", "cought": "Nope",
       "id": 51
     },
     {
-      "name": "meowth",
+      "name": "meowth", "cought": "Nope",
       "id": 52
     },
     {
-      "name": "persian",
+      "name": "persian", "cought": "Nope",
       "id": 53
     },
     {
-      "name": "psyduck",
+      "name": "psyduck", "cought": "Nope",
       "id": 54
     },
     {
-      "name": "golduck",
+      "name": "golduck", "cought": "Nope",
       "id": 55
     },
     {
-      "name": "mankey",
+      "name": "mankey", "cought": "Nope",
       "id": 56
     },
     {
-      "name": "primeape",
+      "name": "primeape", "cought": "Nope",
       "id": 57
     },
     {
-      "name": "growlithe",
+      "name": "growlithe", "cought": "Nope",
       "id": 58
     },
     {
-      "name": "arcanine",
+      "name": "arcanine", "cought": "Nope",
       "id": 59
     },
     {
-      "name": "poliwag",
+      "name": "poliwag", "cought": "Nope",
       "id": 60
     },
     {
-      "name": "poliwhirl",
+      "name": "poliwhirl", "cought": "Nope",
       "id": 61
     },
     {
-      "name": "poliwrath",
+      "name": "poliwrath", "cought": "Nope",
       "id": 62
     },
     {
-      "name": "abra",
+      "name": "abra", "cought": "Nope",
       "id": 63
     },
     {
-      "name": "kadabra",
+      "name": "kadabra", "cought": "Nope",
       "id": 64
     },
     {
-      "name": "alakazam",
+      "name": "alakazam", "cought": "Nope",
       "id": 65
     },
     {
-      "name": "machop",
+      "name": "machop", "cought": "Nope",
       "id": 66
     },
     {
-      "name": "machoke",
+      "name": "machoke", "cought": "Nope",
       "id": 67
     },
     {
-      "name": "machamp",
+      "name": "machamp", "cought": "Nope",
       "id": 68
     },
     {
-      "name": "bellsprout",
+      "name": "bellsprout", "cought": "Nope",
       "id": 69
     },
     {
-      "name": "weepinbell",
+      "name": "weepinbell", "cought": "Nope",
       "id": 70
     },
     {
-      "name": "victreebel",
+      "name": "victreebel", "cought": "Nope",
       "id": 71
     },
     {
-      "name": "tentacool",
+      "name": "tentacool", "cought": "Nope",
       "id": 72
     },
     {
-      "name": "tentacruel",
+      "name": "tentacruel", "cought": "Nope",
       "id": 73
     },
     {
-      "name": "geodude",
+      "name": "geodude", "cought": "Nope",
       "id": 74
     },
     {
-      "name": "graveler",
+      "name": "graveler", "cought": "Nope",
       "id": 75
     },
     {
-      "name": "golem",
+      "name": "golem", "cought": "Nope",
       "id": 76
     },
     {
-      "name": "ponyta",
+      "name": "ponyta", "cought": "Nope",
       "id": 77
     },
     {
-      "name": "rapidash",
+      "name": "rapidash", "cought": "Nope",
       "id": 78
     },
     {
-      "name": "slowpoke",
+      "name": "slowpoke", "cought": "Nope",
       "id": 79
     },
     {
-      "name": "slowbro",
+      "name": "slowbro", "cought": "Nope",
       "id": 80
     },
     {
-      "name": "magnemite",
+      "name": "magnemite", "cought": "Nope",
       "id": 81
     },
     {
-      "name": "magneton",
+      "name": "magneton", "cought": "Nope",
       "id": 82
     },
     {
-      "name": "farfetchd",
+      "name": "farfetchd", "cought": "Nope",
       "id": 83
     },
     {
-      "name": "doduo",
+      "name": "doduo", "cought": "Nope",
       "id": 84
     },
     {
-      "name": "dodrio",
+      "name": "dodrio", "cought": "Nope",
       "id": 85
     },
     {
-      "name": "seel",
+      "name": "seel", "cought": "Nope",
       "id": 86
     },
     {
-      "name": "dewgong",
+      "name": "dewgong", "cought": "Nope",
       "id": 87
     },
     {
-      "name": "grimer",
+      "name": "grimer", "cought": "Nope",
       "id": 88
     },
     {
-      "name": "muk",
+      "name": "muk", "cought": "Nope",
       "id": 89
     },
     {
-      "name": "shellder",
+      "name": "shellder", "cought": "Nope",
       "id": 90
     },
     {
-      "name": "cloyster",
+      "name": "cloyster", "cought": "Nope",
       "id": 91
     },
     {
-      "name": "gastly",
+      "name": "gastly", "cought": "Nope",
       "id": 92
     },
     {
-      "name": "haunter",
+      "name": "haunter", "cought": "Nope",
       "id": 93
     },
     {
-      "name": "gengar",
+      "name": "gengar", "cought": "Nope",
       "id": 94
     },
     {
-      "name": "onix",
+      "name": "onix", "cought": "Nope",
       "id": 95
     },
     {
-      "name": "drowzee",
+      "name": "drowzee", "cought": "Nope",
       "id": 96
     },
     {
-      "name": "hypno",
+      "name": "hypno", "cought": "Nope",
       "id": 97
     },
     {
-      "name": "krabby",
+      "name": "krabby", "cought": "Nope",
       "id": 98
     },
     {
-      "name": "kingler",
+      "name": "kingler", "cought": "Nope",
       "id": 99
     },
     {
-      "name": "voltorb",
+      "name": "voltorb", "cought": "Nope",
       "id": 100
     },
     {
-      "name": "electrode",
+      "name": "electrode", "cought": "Nope",
       "id": 101
     },
     {
-      "name": "exeggcute",
+      "name": "exeggcute", "cought": "Nope",
       "id": 102
     },
     {
-      "name": "exeggutor",
+      "name": "exeggutor", "cought": "Nope",
       "id": 103
     },
     {
-      "name": "cubone",
+      "name": "cubone", "cought": "Nope",
       "id": 104
     },
     {
-      "name": "marowak",
+      "name": "marowak", "cought": "Nope",
       "id": 105
     },
     {
-      "name": "hitmonlee",
+      "name": "hitmonlee", "cought": "Nope",
       "id": 106
     },
     {
-      "name": "hitmonchan",
+      "name": "hitmonchan", "cought": "Nope",
       "id": 107
     },
     {
-      "name": "lickitung",
+      "name": "lickitung", "cought": "Nope",
       "id": 108
     },
     {
-      "name": "koffing",
+      "name": "koffing", "cought": "Nope",
       "id": 109
     },
     {
-      "name": "weezing",
+      "name": "weezing", "cought": "Nope",
       "id": 110
     },
     {
-      "name": "rhyhorn",
+      "name": "rhyhorn", "cought": "Nope",
       "id": 111
     },
     {
-      "name": "rhydon",
+      "name": "rhydon", "cought": "Nope",
       "id": 112
     },
     {
-      "name": "chansey",
+      "name": "chansey", "cought": "Nope",
       "id": 113
     },
     {
-      "name": "tangela",
+      "name": "tangela", "cought": "Nope",
       "id": 114
     },
     {
-      "name": "kangaskhan",
+      "name": "kangaskhan", "cought": "Nope",
       "id": 115
     },
     {
-      "name": "horsea",
+      "name": "horsea", "cought": "Nope",
       "id": 116
     },
     {
-      "name": "seadra",
+      "name": "seadra", "cought": "Nope",
       "id": 117
     },
     {
-      "name": "goldeen",
+      "name": "goldeen", "cought": "Nope",
       "id": 118
     },
     {
-      "name": "seaking",
+      "name": "seaking", "cought": "Nope",
       "id": 119
     },
     {
-      "name": "staryu",
+      "name": "staryu", "cought": "Nope",
       "id": 120
     },
     {
-      "name": "starmie",
+      "name": "starmie", "cought": "Nope",
       "id": 121
     },
     {
-      "name": "mr-mime",
+      "name": "mr-mime", "cought": "Nope",
       "id": 122
     },
     {
-      "name": "scyther",
+      "name": "scyther", "cought": "Nope",
       "id": 123
     },
     {
-      "name": "jynx",
+      "name": "jynx", "cought": "Nope",
       "id": 124
     },
     {
-      "name": "electabuzz",
+      "name": "electabuzz", "cought": "Nope",
       "id": 125
     },
     {
-      "name": "magmar",
+      "name": "magmar", "cought": "Nope",
       "id": 126
     },
     {
-      "name": "pinsir",
+      "name": "pinsir", "cought": "Nope",
       "id": 127
     },
     {
-      "name": "tauros",
+      "name": "tauros", "cought": "Nope",
       "id": 128
     },
     {
-      "name": "magikarp",
+      "name": "magikarp", "cought": "Nope",
       "id": 129
     },
     {
-      "name": "gyarados",
+      "name": "gyarados", "cought": "Nope",
       "id": 130
     },
     {
-      "name": "lapras",
+      "name": "lapras", "cought": "Nope",
       "id": 131
     },
     {
-      "name": "ditto",
+      "name": "ditto", "cought": "Nope",
       "id": 132
     },
     {
-      "name": "eevee",
+      "name": "eevee", "cought": "Nope",
       "id": 133
     },
     {
-      "name": "vaporeon",
+      "name": "vaporeon", "cought": "Nope",
       "id": 134
     },
     {
-      "name": "jolteon",
+      "name": "jolteon", "cought": "Nope",
       "id": 135
     },
     {
-      "name": "flareon",
+      "name": "flareon", "cought": "Nope",
       "id": 136
     },
     {
-      "name": "porygon",
+      "name": "porygon", "cought": "Nope",
       "id": 137
     },
     {
-      "name": "omanyte",
+      "name": "omanyte", "cought": "Nope",
       "id": 138
     },
     {
-      "name": "omastar",
+      "name": "omastar", "cought": "Nope",
       "id": 139
     },
     {
-      "name": "kabuto",
+      "name": "kabuto", "cought": "Nope",
       "id": 140
     },
     {
-      "name": "kabutops",
+      "name": "kabutops", "cought": "Nope",
       "id": 141
     },
     {
-      "name": "aerodactyl",
+      "name": "aerodactyl", "cought": "Nope",
       "id": 142
     },
     {
-      "name": "snorlax",
+      "name": "snorlax", "cought": "Nope",
       "id": 143
     },
     {
-      "name": "articuno",
+      "name": "articuno", "cought": "Nope",
       "id": 144
     },
     {
-      "name": "zapdos",
+      "name": "zapdos", "cought": "Nope",
       "id": 145
     },
     {
-      "name": "moltres",
+      "name": "moltres", "cought": "Nope",
       "id": 146
     },
     {
-      "name": "dratini",
+      "name": "dratini", "cought": "Nope",
       "id": 147
     },
     {
-      "name": "dragonair",
+      "name": "dragonair", "cought": "Nope",
       "id": 148
     },
     {
-      "name": "dragonite",
+      "name": "dragonite", "cought": "Nope",
       "id": 149
     },
     {
-      "name": "mewtwo",
+      "name": "mewtwo", "cought": "Nope",
       "id": 150
     },
     {
-      "name": "mew",
+      "name": "mew", "cought": "Nope",
       "id": 151
     },
     {
-      "name": "chikorita",
+      "name": "chikorita", "cought": "Nope",
       "id": 152
     },
     {
-      "name": "bayleef",
+      "name": "bayleef", "cought": "Nope",
       "id": 153
     },
     {
-      "name": "meganium",
+      "name": "meganium", "cought": "Nope",
       "id": 154
     },
     {
-      "name": "cyndaquil",
+      "name": "cyndaquil", "cought": "Nope",
       "id": 155
     },
     {
-      "name": "quilava",
+      "name": "quilava", "cought": "Nope",
       "id": 156
     },
     {
-      "name": "typhlosion",
+      "name": "typhlosion", "cought": "Nope",
       "id": 157
     },
     {
-      "name": "totodile",
+      "name": "totodile", "cought": "Nope",
       "id": 158
     },
     {
-      "name": "croconaw",
+      "name": "croconaw", "cought": "Nope",
       "id": 159
     },
     {
-      "name": "feraligatr",
+      "name": "feraligatr", "cought": "Nope",
       "id": 160
     },
     {
-      "name": "sentret",
+      "name": "sentret", "cought": "Nope",
       "id": 161
     },
     {
-      "name": "furret",
+      "name": "furret", "cought": "Nope",
       "id": 162
     },
     {
-      "name": "hoothoot",
+      "name": "hoothoot", "cought": "Nope",
       "id": 163
     },
     {
-      "name": "noctowl",
+      "name": "noctowl", "cought": "Nope",
       "id": 164
     },
     {
-      "name": "ledyba",
+      "name": "ledyba", "cought": "Nope",
       "id": 165
     },
     {
-      "name": "ledian",
+      "name": "ledian", "cought": "Nope",
       "id": 166
     },
     {
-      "name": "spinarak",
+      "name": "spinarak", "cought": "Nope",
       "id": 167
     },
     {
-      "name": "ariados",
+      "name": "ariados", "cought": "Nope",
       "id": 168
     },
     {
-      "name": "crobat",
+      "name": "crobat", "cought": "Nope",
       "id": 169
     },
     {
-      "name": "chinchou",
+      "name": "chinchou", "cought": "Nope",
       "id": 170
     },
     {
-      "name": "lanturn",
+      "name": "lanturn", "cought": "Nope",
       "id": 171
     },
     {
-      "name": "pichu",
+      "name": "pichu", "cought": "Nope",
       "id": 172
     },
     {
-      "name": "cleffa",
+      "name": "cleffa", "cought": "Nope",
       "id": 173
     },
     {
-      "name": "igglybuff",
+      "name": "igglybuff", "cought": "Nope",
       "id": 174
     },
     {
-      "name": "togepi",
+      "name": "togepi", "cought": "Nope",
       "id": 175
     },
     {
-      "name": "togetic",
+      "name": "togetic", "cought": "Nope",
       "id": 176
     },
     {
-      "name": "natu",
+      "name": "natu", "cought": "Nope",
       "id": 177
     },
     {
-      "name": "xatu",
+      "name": "xatu", "cought": "Nope",
       "id": 178
     },
     {
-      "name": "mareep",
+      "name": "mareep", "cought": "Nope",
       "id": 179
     },
     {
-      "name": "flaaffy",
+      "name": "flaaffy", "cought": "Nope",
       "id": 180
     },
     {
-      "name": "ampharos",
+      "name": "ampharos", "cought": "Nope",
       "id": 181
     },
     {
-      "name": "bellossom",
+      "name": "bellossom", "cought": "Nope",
       "id": 182
     },
     {
-      "name": "marill",
+      "name": "marill", "cought": "Nope",
       "id": 183
     },
     {
-      "name": "azumarill",
+      "name": "azumarill", "cought": "Nope",
       "id": 184
     },
     {
-      "name": "sudowoodo",
+      "name": "sudowoodo", "cought": "Nope",
       "id": 185
     },
     {
-      "name": "politoed",
+      "name": "politoed", "cought": "Nope",
       "id": 186
     },
     {
-      "name": "hoppip",
+      "name": "hoppip", "cought": "Nope",
       "id": 187
     },
     {
-      "name": "skiploom",
+      "name": "skiploom", "cought": "Nope",
       "id": 188
     },
     {
-      "name": "jumpluff",
+      "name": "jumpluff", "cought": "Nope",
       "id": 189
     },
     {
-      "name": "aipom",
+      "name": "aipom", "cought": "Nope",
       "id": 190
     },
     {
-      "name": "sunkern",
+      "name": "sunkern", "cought": "Nope",
       "id": 191
     },
     {
-      "name": "sunflora",
+      "name": "sunflora", "cought": "Nope",
       "id": 192
     },
     {
-      "name": "yanma",
+      "name": "yanma", "cought": "Nope",
       "id": 193
     },
     {
-      "name": "wooper",
+      "name": "wooper", "cought": "Nope",
       "id": 194
     },
     {
-      "name": "quagsire",
+      "name": "quagsire", "cought": "Nope",
       "id": 195
     },
     {
-      "name": "espeon",
+      "name": "espeon", "cought": "Nope",
       "id": 196
     },
     {
-      "name": "umbreon",
+      "name": "umbreon", "cought": "Nope",
       "id": 197
     },
     {
-      "name": "murkrow",
+      "name": "murkrow", "cought": "Nope",
       "id": 198
     },
     {
-      "name": "slowking",
+      "name": "slowking", "cought": "Nope",
       "id": 199
     },
     {
-      "name": "misdreavus",
+      "name": "misdreavus", "cought": "Nope",
       "id": 200
     },
     {
-      "name": "unown",
+      "name": "unown", "cought": "Nope",
       "id": 201
     },
     {
-      "name": "wobbuffet",
+      "name": "wobbuffet", "cought": "Nope",
       "id": 202
     },
     {
-      "name": "girafarig",
+      "name": "girafarig", "cought": "Nope",
       "id": 203
     },
     {
-      "name": "pineco",
+      "name": "pineco", "cought": "Nope",
       "id": 204
     },
     {
-      "name": "forretress",
+      "name": "forretress", "cought": "Nope",
       "id": 205
     },
     {
-      "name": "dunsparce",
+      "name": "dunsparce", "cought": "Nope",
       "id": 206
     },
     {
-      "name": "gligar",
+      "name": "gligar", "cought": "Nope",
       "id": 207
     },
     {
-      "name": "steelix",
+      "name": "steelix", "cought": "Nope",
       "id": 208
     },
     {
-      "name": "snubbull",
+      "name": "snubbull", "cought": "Nope",
       "id": 209
     },
     {
-      "name": "granbull",
+      "name": "granbull", "cought": "Nope",
       "id": 210
     },
     {
-      "name": "qwilfish",
+      "name": "qwilfish", "cought": "Nope",
       "id": 211
     },
     {
-      "name": "scizor",
+      "name": "scizor", "cought": "Nope",
       "id": 212
     },
     {
-      "name": "shuckle",
+      "name": "shuckle", "cought": "Nope",
       "id": 213
     },
     {
-      "name": "heracross",
+      "name": "heracross", "cought": "Nope",
       "id": 214
     },
     {
-      "name": "sneasel",
+      "name": "sneasel", "cought": "Nope",
       "id": 215
     },
     {
-      "name": "teddiursa",
+      "name": "teddiursa", "cought": "Nope",
       "id": 216
     },
     {
-      "name": "ursaring",
+      "name": "ursaring", "cought": "Nope",
       "id": 217
     },
     {
-      "name": "slugma",
+      "name": "slugma", "cought": "Nope",
       "id": 218
     },
     {
-      "name": "magcargo",
+      "name": "magcargo", "cought": "Nope",
       "id": 219
     },
     {
-      "name": "swinub",
+      "name": "swinub", "cought": "Nope",
       "id": 220
     },
     {
-      "name": "piloswine",
+      "name": "piloswine", "cought": "Nope",
       "id": 221
     },
     {
-      "name": "corsola",
+      "name": "corsola", "cought": "Nope",
       "id": 222
     },
     {
-      "name": "remoraid",
+      "name": "remoraid", "cought": "Nope",
       "id": 223
     },
     {
-      "name": "octillery",
+      "name": "octillery", "cought": "Nope",
       "id": 224
     },
     {
-      "name": "delibird",
+      "name": "delibird", "cought": "Nope",
       "id": 225
     },
     {
-      "name": "mantine",
+      "name": "mantine", "cought": "Nope",
       "id": 226
     },
     {
-      "name": "skarmory",
+      "name": "skarmory", "cought": "Nope",
       "id": 227
     },
     {
-      "name": "houndour",
+      "name": "houndour", "cought": "Nope",
       "id": 228
     },
     {
-      "name": "houndoom",
+      "name": "houndoom", "cought": "Nope",
       "id": 229
     },
     {
-      "name": "kingdra",
+      "name": "kingdra", "cought": "Nope",
       "id": 230
     },
     {
-      "name": "phanpy",
+      "name": "phanpy", "cought": "Nope",
       "id": 231
     },
     {
-      "name": "donphan",
+      "name": "donphan", "cought": "Nope",
       "id": 232
     },
     {
-      "name": "porygon2",
+      "name": "porygon2", "cought": "Nope",
       "id": 233
     },
     {
-      "name": "stantler",
+      "name": "stantler", "cought": "Nope",
       "id": 234
     },
     {
-      "name": "smeargle",
+      "name": "smeargle", "cought": "Nope",
       "id": 235
     },
     {
-      "name": "tyrogue",
+      "name": "tyrogue", "cought": "Nope",
       "id": 236
     },
     {
-      "name": "hitmontop",
+      "name": "hitmontop", "cought": "Nope",
       "id": 237
     },
     {
-      "name": "smoochum",
+      "name": "smoochum", "cought": "Nope",
       "id": 238
     },
     {
-      "name": "elekid",
+      "name": "elekid", "cought": "Nope",
       "id": 239
     },
     {
-      "name": "magby",
+      "name": "magby", "cought": "Nope",
       "id": 240
     },
     {
-      "name": "miltank",
+      "name": "miltank", "cought": "Nope",
       "id": 241
     },
     {
-      "name": "blissey",
+      "name": "blissey", "cought": "Nope",
       "id": 242
     },
     {
-      "name": "raikou",
+      "name": "raikou", "cought": "Nope",
       "id": 243
     },
     {
-      "name": "entei",
+      "name": "entei", "cought": "Nope",
       "id": 244
     },
     {
-      "name": "suicune",
+      "name": "suicune", "cought": "Nope",
       "id": 245
     },
     {
-      "name": "larvitar",
+      "name": "larvitar", "cought": "Nope",
       "id": 246
     },
     {
-      "name": "pupitar",
+      "name": "pupitar", "cought": "Nope",
       "id": 247
     },
     {
-      "name": "tyranitar",
+      "name": "tyranitar", "cought": "Nope",
       "id": 248
     },
     {
-      "name": "lugia",
+      "name": "lugia", "cought": "Nope",
       "id": 249
     },
     {
-      "name": "ho-oh",
+      "name": "ho-oh", "cought": "Nope",
       "id": 250
     },
     {
-      "name": "celebi",
+      "name": "celebi", "cought": "Nope",
       "id": 251
     },
     {
-      "name": "treecko",
+      "name": "treecko", "cought": "Nope",
       "id": 252
     },
     {
-      "name": "grovyle",
+      "name": "grovyle", "cought": "Nope",
       "id": 253
     },
     {
-      "name": "sceptile",
+      "name": "sceptile", "cought": "Nope",
       "id": 254
     },
     {
-      "name": "torchic",
+      "name": "torchic", "cought": "Nope",
       "id": 255
     },
     {
-      "name": "combusken",
+      "name": "combusken", "cought": "Nope",
       "id": 256
     },
     {
-      "name": "blaziken",
+      "name": "blaziken", "cought": "Nope",
       "id": 257
     },
     {
-      "name": "mudkip",
+      "name": "mudkip", "cought": "Nope",
       "id": 258
     },
     {
-      "name": "marshtomp",
+      "name": "marshtomp", "cought": "Nope",
       "id": 259
     },
     {
-      "name": "swampert",
+      "name": "swampert", "cought": "Nope",
       "id": 260
     },
     {
-      "name": "poochyena",
+      "name": "poochyena", "cought": "Nope",
       "id": 261
     },
     {
-      "name": "mightyena",
+      "name": "mightyena", "cought": "Nope",
       "id": 262
     },
     {
-      "name": "zigzagoon",
+      "name": "zigzagoon", "cought": "Nope",
       "id": 263
     },
     {
-      "name": "linoone",
+      "name": "linoone", "cought": "Nope",
       "id": 264
     },
     {
-      "name": "wurmple",
+      "name": "wurmple", "cought": "Nope",
       "id": 265
     },
     {
-      "name": "silcoon",
+      "name": "silcoon", "cought": "Nope",
       "id": 266
     },
     {
-      "name": "beautifly",
+      "name": "beautifly", "cought": "Nope",
       "id": 267
     },
     {
-      "name": "cascoon",
+      "name": "cascoon", "cought": "Nope",
       "id": 268
     },
     {
-      "name": "dustox",
+      "name": "dustox", "cought": "Nope",
       "id": 269
     },
     {
-      "name": "lotad",
+      "name": "lotad", "cought": "Nope",
       "id": 270
     },
     {
-      "name": "lombre",
+      "name": "lombre", "cought": "Nope",
       "id": 271
     },
     {
-      "name": "ludicolo",
+      "name": "ludicolo", "cought": "Nope",
       "id": 272
     },
     {
-      "name": "seedot",
+      "name": "seedot", "cought": "Nope",
       "id": 273
     },
     {
-      "name": "nuzleaf",
+      "name": "nuzleaf", "cought": "Nope",
       "id": 274
     },
     {
-      "name": "shiftry",
+      "name": "shiftry", "cought": "Nope",
       "id": 275
     },
     {
-      "name": "taillow",
+      "name": "taillow", "cought": "Nope",
       "id": 276
     },
     {
-      "name": "swellow",
+      "name": "swellow", "cought": "Nope",
       "id": 277
     },
     {
-      "name": "wingull",
+      "name": "wingull", "cought": "Nope",
       "id": 278
     },
     {
-      "name": "pelipper",
+      "name": "pelipper", "cought": "Nope",
       "id": 279
     },
     {
-      "name": "ralts",
+      "name": "ralts", "cought": "Nope",
       "id": 280
     },
     {
-      "name": "kirlia",
+      "name": "kirlia", "cought": "Nope",
       "id": 281
     },
     {
-      "name": "gardevoir",
+      "name": "gardevoir", "cought": "Nope",
       "id": 282
     },
     {
-      "name": "surskit",
+      "name": "surskit", "cought": "Nope",
       "id": 283
     },
     {
-      "name": "masquerain",
+      "name": "masquerain", "cought": "Nope",
       "id": 284
     },
     {
-      "name": "shroomish",
+      "name": "shroomish", "cought": "Nope",
       "id": 285
     },
     {
-      "name": "breloom",
+      "name": "breloom", "cought": "Nope",
       "id": 286
     },
     {
-      "name": "slakoth",
+      "name": "slakoth", "cought": "Nope",
       "id": 287
     },
     {
-      "name": "vigoroth",
+      "name": "vigoroth", "cought": "Nope",
       "id": 288
     },
     {
-      "name": "slaking",
+      "name": "slaking", "cought": "Nope",
       "id": 289
     },
     {
-      "name": "nincada",
+      "name": "nincada", "cought": "Nope",
       "id": 290
     },
     {
-      "name": "ninjask",
+      "name": "ninjask", "cought": "Nope",
       "id": 291
     },
     {
-      "name": "shedinja",
+      "name": "shedinja", "cought": "Nope",
       "id": 292
     },
     {
-      "name": "whismur",
+      "name": "whismur", "cought": "Nope",
       "id": 293
     },
     {
-      "name": "loudred",
+      "name": "loudred", "cought": "Nope",
       "id": 294
     },
     {
-      "name": "exploud",
+      "name": "exploud", "cought": "Nope",
       "id": 295
     },
     {
-      "name": "makuhita",
+      "name": "makuhita", "cought": "Nope",
       "id": 296
     },
     {
-      "name": "hariyama",
+      "name": "hariyama", "cought": "Nope",
       "id": 297
     },
     {
-      "name": "azurill",
+      "name": "azurill", "cought": "Nope",
       "id": 298
     },
     {
-      "name": "nosepass",
+      "name": "nosepass", "cought": "Nope",
       "id": 299
     },
     {
-      "name": "skitty",
+      "name": "skitty", "cought": "Nope",
       "id": 300
     },
     {
-      "name": "delcatty",
+      "name": "delcatty", "cought": "Nope",
       "id": 301
     },
     {
-      "name": "sableye",
+      "name": "sableye", "cought": "Nope",
       "id": 302
     },
     {
-      "name": "mawile",
+      "name": "mawile", "cought": "Nope",
       "id": 303
     },
     {
-      "name": "aron",
+      "name": "aron", "cought": "Nope",
       "id": 304
     },
     {
-      "name": "lairon",
+      "name": "lairon", "cought": "Nope",
       "id": 305
     },
     {
-      "name": "aggron",
+      "name": "aggron", "cought": "Nope",
       "id": 306
     },
     {
-      "name": "meditite",
+      "name": "meditite", "cought": "Nope",
       "id": 307
     },
     {
-      "name": "medicham",
+      "name": "medicham", "cought": "Nope",
       "id": 308
     },
     {
-      "name": "electrike",
+      "name": "electrike", "cought": "Nope",
       "id": 309
     },
     {
-      "name": "manectric",
+      "name": "manectric", "cought": "Nope",
       "id": 310
     },
     {
-      "name": "plusle",
+      "name": "plusle", "cought": "Nope",
       "id": 311
     },
     {
-      "name": "minun",
+      "name": "minun", "cought": "Nope",
       "id": 312
     },
     {
-      "name": "volbeat",
+      "name": "volbeat", "cought": "Nope",
       "id": 313
     },
     {
-      "name": "illumise",
+      "name": "illumise", "cought": "Nope",
       "id": 314
     },
     {
-      "name": "roselia",
+      "name": "roselia", "cought": "Nope",
       "id": 315
     },
     {
-      "name": "gulpin",
+      "name": "gulpin", "cought": "Nope",
       "id": 316
     },
     {
-      "name": "swalot",
+      "name": "swalot", "cought": "Nope",
       "id": 317
     },
     {
-      "name": "carvanha",
+      "name": "carvanha", "cought": "Nope",
       "id": 318
     },
     {
-      "name": "sharpedo",
+      "name": "sharpedo", "cought": "Nope",
       "id": 319
     },
     {
-      "name": "wailmer",
+      "name": "wailmer", "cought": "Nope",
       "id": 320
     },
     {
-      "name": "wailord",
+      "name": "wailord", "cought": "Nope",
       "id": 321
     },
     {
-      "name": "numel",
+      "name": "numel", "cought": "Nope",
       "id": 322
     },
     {
-      "name": "camerupt",
+      "name": "camerupt", "cought": "Nope",
       "id": 323
     },
     {
-      "name": "torkoal",
+      "name": "torkoal", "cought": "Nope",
       "id": 324
     },
     {
-      "name": "spoink",
+      "name": "spoink", "cought": "Nope",
       "id": 325
     },
     {
-      "name": "grumpig",
+      "name": "grumpig", "cought": "Nope",
       "id": 326
     },
     {
-      "name": "spinda",
+      "name": "spinda", "cought": "Nope",
       "id": 327
     },
     {
-      "name": "trapinch",
+      "name": "trapinch", "cought": "Nope",
       "id": 328
     },
     {
-      "name": "vibrava",
+      "name": "vibrava", "cought": "Nope",
       "id": 329
     },
     {
-      "name": "flygon",
+      "name": "flygon", "cought": "Nope",
       "id": 330
     },
     {
-      "name": "cacnea",
+      "name": "cacnea", "cought": "Nope",
       "id": 331
     },
     {
-      "name": "cacturne",
+      "name": "cacturne", "cought": "Nope",
       "id": 332
     },
     {
-      "name": "swablu",
+      "name": "swablu", "cought": "Nope",
       "id": 333
     },
     {
-      "name": "altaria",
+      "name": "altaria", "cought": "Nope",
       "id": 334
     },
     {
-      "name": "zangoose",
+      "name": "zangoose", "cought": "Nope",
       "id": 335
     },
     {
-      "name": "seviper",
+      "name": "seviper", "cought": "Nope",
       "id": 336
     },
     {
-      "name": "lunatone",
+      "name": "lunatone", "cought": "Nope",
       "id": 337
     },
     {
-      "name": "solrock",
+      "name": "solrock", "cought": "Nope",
       "id": 338
     },
     {
-      "name": "barboach",
+      "name": "barboach", "cought": "Nope",
       "id": 339
     },
     {
-      "name": "whiscash",
+      "name": "whiscash", "cought": "Nope",
       "id": 340
     },
     {
-      "name": "corphish",
+      "name": "corphish", "cought": "Nope",
       "id": 341
     },
     {
-      "name": "crawdaunt",
+      "name": "crawdaunt", "cought": "Nope",
       "id": 342
     },
     {
-      "name": "baltoy",
+      "name": "baltoy", "cought": "Nope",
       "id": 343
     },
     {
-      "name": "claydol",
+      "name": "claydol", "cought": "Nope",
       "id": 344
     },
     {
-      "name": "lileep",
+      "name": "lileep", "cought": "Nope",
       "id": 345
     },
     {
-      "name": "cradily",
+      "name": "cradily", "cought": "Nope",
       "id": 346
     },
     {
-      "name": "anorith",
+      "name": "anorith", "cought": "Nope",
       "id": 347
     },
     {
-      "name": "armaldo",
+      "name": "armaldo", "cought": "Nope",
       "id": 348
     },
     {
-      "name": "feebas",
+      "name": "feebas", "cought": "Nope",
       "id": 349
     },
     {
-      "name": "milotic",
+      "name": "milotic", "cought": "Nope",
       "id": 350
     },
     {
-      "name": "castform",
+      "name": "castform", "cought": "Nope",
       "id": 351
     },
     {
-      "name": "kecleon",
+      "name": "kecleon", "cought": "Nope",
       "id": 352
     },
     {
-      "name": "shuppet",
+      "name": "shuppet", "cought": "Nope",
       "id": 353
     },
     {
-      "name": "banette",
+      "name": "banette", "cought": "Nope",
       "id": 354
     },
     {
-      "name": "duskull",
+      "name": "duskull", "cought": "Nope",
       "id": 355
     },
     {
-      "name": "dusclops",
+      "name": "dusclops", "cought": "Nope",
       "id": 356
     },
     {
-      "name": "tropius",
+      "name": "tropius", "cought": "Nope",
       "id": 357
     },
     {
-      "name": "chimecho",
+      "name": "chimecho", "cought": "Nope",
       "id": 358
     },
     {
-      "name": "absol",
+      "name": "absol", "cought": "Nope",
       "id": 359
     },
     {
-      "name": "wynaut",
+      "name": "wynaut", "cought": "Nope",
       "id": 360
     },
     {
-      "name": "snorunt",
+      "name": "snorunt", "cought": "Nope",
       "id": 361
     },
     {
-      "name": "glalie",
+      "name": "glalie", "cought": "Nope",
       "id": 362
     },
     {
-      "name": "spheal",
+      "name": "spheal", "cought": "Nope",
       "id": 363
     },
     {
-      "name": "sealeo",
+      "name": "sealeo", "cought": "Nope",
       "id": 364
     },
     {
-      "name": "walrein",
+      "name": "walrein", "cought": "Nope",
       "id": 365
     },
     {
-      "name": "clamperl",
+      "name": "clamperl", "cought": "Nope",
       "id": 366
     },
     {
-      "name": "huntail",
+      "name": "huntail", "cought": "Nope",
       "id": 367
     },
     {
-      "name": "gorebyss",
+      "name": "gorebyss", "cought": "Nope",
       "id": 368
     },
     {
-      "name": "relicanth",
+      "name": "relicanth", "cought": "Nope",
       "id": 369
     },
     {
-      "name": "luvdisc",
+      "name": "luvdisc", "cought": "Nope",
       "id": 370
     },
     {
-      "name": "bagon",
+      "name": "bagon", "cought": "Nope",
       "id": 371
     },
     {
-      "name": "shelgon",
+      "name": "shelgon", "cought": "Nope",
       "id": 372
     },
     {
-      "name": "salamence",
+      "name": "salamence", "cought": "Nope",
       "id": 373
     },
     {
-      "name": "beldum",
+      "name": "beldum", "cought": "Nope",
       "id": 374
     },
     {
-      "name": "metang",
+      "name": "metang", "cought": "Nope",
       "id": 375
     },
     {
-      "name": "metagross",
+      "name": "metagross", "cought": "Nope",
       "id": 376
     },
     {
-      "name": "regirock",
+      "name": "regirock", "cought": "Nope",
       "id": 377
     },
     {
-      "name": "regice",
+      "name": "regice", "cought": "Nope",
       "id": 378
     },
     {
-      "name": "registeel",
+      "name": "registeel", "cought": "Nope",
       "id": 379
     },
     {
-      "name": "latias",
+      "name": "latias", "cought": "Nope",
       "id": 380
     },
     {
-      "name": "latios",
+      "name": "latios", "cought": "Nope",
       "id": 381
     },
     {
-      "name": "kyogre",
+      "name": "kyogre", "cought": "Nope",
       "id": 382
     },
     {
-      "name": "groudon",
+      "name": "groudon", "cought": "Nope",
       "id": 383
     },
     {
-      "name": "rayquaza",
+      "name": "rayquaza", "cought": "Nope",
       "id": 384
     },
     {
-      "name": "jirachi",
+      "name": "jirachi", "cought": "Nope",
       "id": 385
     },
     {
-      "name": "deoxys-normal",
+      "name": "deoxys-normal", "cought": "Nope",
       "id": 386
     },
     {
-      "name": "turtwig",
+      "name": "turtwig", "cought": "Nope",
       "id": 387
     },
     {
-      "name": "grotle",
+      "name": "grotle", "cought": "Nope",
       "id": 388
     },
     {
-      "name": "torterra",
+      "name": "torterra", "cought": "Nope",
       "id": 389
     },
     {
-      "name": "chimchar",
+      "name": "chimchar", "cought": "Nope",
       "id": 390
     },
     {
-      "name": "monferno",
+      "name": "monferno", "cought": "Nope",
       "id": 391
     },
     {
-      "name": "infernape",
+      "name": "infernape", "cought": "Nope",
       "id": 392
     },
     {
-      "name": "piplup",
+      "name": "piplup", "cought": "Nope",
       "id": 393
     },
     {
-      "name": "prinplup",
+      "name": "prinplup", "cought": "Nope",
       "id": 394
     },
     {
-      "name": "empoleon",
+      "name": "empoleon", "cought": "Nope",
       "id": 395
     },
     {
-      "name": "starly",
+      "name": "starly", "cought": "Nope",
       "id": 396
     },
     {
-      "name": "staravia",
+      "name": "staravia", "cought": "Nope",
       "id": 397
     },
     {
-      "name": "staraptor",
+      "name": "staraptor", "cought": "Nope",
       "id": 398
     },
     {
-      "name": "bidoof",
+      "name": "bidoof", "cought": "Nope",
       "id": 399
     },
     {
-      "name": "bibarel",
+      "name": "bibarel", "cought": "Nope",
       "id": 400
     },
     {
-      "name": "kricketot",
+      "name": "kricketot", "cought": "Nope",
       "id": 401
     },
     {
-      "name": "kricketune",
+      "name": "kricketune", "cought": "Nope",
       "id": 402
     },
     {
-      "name": "shinx",
+      "name": "shinx", "cought": "Nope",
       "id": 403
     },
     {
-      "name": "luxio",
+      "name": "luxio", "cought": "Nope",
       "id": 404
     },
     {
-      "name": "luxray",
+      "name": "luxray", "cought": "Nope",
       "id": 405
     },
     {
-      "name": "budew",
+      "name": "budew", "cought": "Nope",
       "id": 406
     },
     {
-      "name": "roserade",
+      "name": "roserade", "cought": "Nope",
       "id": 407
     },
     {
-      "name": "cranidos",
+      "name": "cranidos", "cought": "Nope",
       "id": 408
     },
     {
-      "name": "rampardos",
+      "name": "rampardos", "cought": "Nope",
       "id": 409
     },
     {
-      "name": "shieldon",
+      "name": "shieldon", "cought": "Nope",
       "id": 410
     },
     {
-      "name": "bastiodon",
+      "name": "bastiodon", "cought": "Nope",
       "id": 411
     },
     {
-      "name": "burmy",
+      "name": "burmy", "cought": "Nope",
       "id": 412
     },
     {
-      "name": "wormadam-plant",
+      "name": "wormadam-plant", "cought": "Nope",
       "id": 413
     },
     {
-      "name": "mothim",
+      "name": "mothim", "cought": "Nope",
       "id": 414
     },
     {
-      "name": "combee",
+      "name": "combee", "cought": "Nope",
       "id": 415
     },
     {
-      "name": "vespiquen",
+      "name": "vespiquen", "cought": "Nope",
       "id": 416
     },
     {
-      "name": "pachirisu",
+      "name": "pachirisu", "cought": "Nope",
       "id": 417
     },
     {
-      "name": "buizel",
+      "name": "buizel", "cought": "Nope",
       "id": 418
     },
     {
-      "name": "floatzel",
+      "name": "floatzel", "cought": "Nope",
       "id": 419
     },
     {
-      "name": "cherubi",
+      "name": "cherubi", "cought": "Nope",
       "id": 420
     },
     {
-      "name": "cherrim",
+      "name": "cherrim", "cought": "Nope",
       "id": 421
     },
     {
-      "name": "shellos",
+      "name": "shellos", "cought": "Nope",
       "id": 422
     },
     {
-      "name": "gastrodon",
+      "name": "gastrodon", "cought": "Nope",
       "id": 423
     },
     {
-      "name": "ambipom",
+      "name": "ambipom", "cought": "Nope",
       "id": 424
     },
     {
-      "name": "drifloon",
+      "name": "drifloon", "cought": "Nope",
       "id": 425
     },
     {
-      "name": "drifblim",
+      "name": "drifblim", "cought": "Nope",
       "id": 426
     },
     {
-      "name": "buneary",
+      "name": "buneary", "cought": "Nope",
       "id": 427
     },
     {
-      "name": "lopunny",
+      "name": "lopunny", "cought": "Nope",
       "id": 428
     },
     {
-      "name": "mismagius",
+      "name": "mismagius", "cought": "Nope",
       "id": 429
     },
     {
-      "name": "honchkrow",
+      "name": "honchkrow", "cought": "Nope",
       "id": 430
     },
     {
-      "name": "glameow",
+      "name": "glameow", "cought": "Nope",
       "id": 431
     },
     {
-      "name": "purugly",
+      "name": "purugly", "cought": "Nope",
       "id": 432
     },
     {
-      "name": "chingling",
+      "name": "chingling", "cought": "Nope",
       "id": 433
     },
     {
-      "name": "stunky",
+      "name": "stunky", "cought": "Nope",
       "id": 434
     },
     {
-      "name": "skuntank",
+      "name": "skuntank", "cought": "Nope",
       "id": 435
     },
     {
-      "name": "bronzor",
+      "name": "bronzor", "cought": "Nope",
       "id": 436
     },
     {
-      "name": "bronzong",
+      "name": "bronzong", "cought": "Nope",
       "id": 437
     },
     {
-      "name": "bonsly",
+      "name": "bonsly", "cought": "Nope",
       "id": 438
     },
     {
-      "name": "mime-jr",
+      "name": "mime-jr", "cought": "Nope",
       "id": 439
     },
     {
-      "name": "happiny",
+      "name": "happiny", "cought": "Nope",
       "id": 440
     },
     {
-      "name": "chatot",
+      "name": "chatot", "cought": "Nope",
       "id": 441
     },
     {
-      "name": "spiritomb",
+      "name": "spiritomb", "cought": "Nope",
       "id": 442
     },
     {
-      "name": "gible",
+      "name": "gible", "cought": "Nope",
       "id": 443
     },
     {
-      "name": "gabite",
+      "name": "gabite", "cought": "Nope",
       "id": 444
     },
     {
-      "name": "garchomp",
+      "name": "garchomp", "cought": "Nope",
       "id": 445
     },
     {
-      "name": "munchlax",
+      "name": "munchlax", "cought": "Nope",
       "id": 446
     },
     {
-      "name": "riolu",
+      "name": "riolu", "cought": "Nope",
       "id": 447
     },
     {
-      "name": "lucario",
+      "name": "lucario", "cought": "Nope",
       "id": 448
     },
     {
-      "name": "hippopotas",
+      "name": "hippopotas", "cought": "Nope",
       "id": 449
     },
     {
-      "name": "hippowdon",
+      "name": "hippowdon", "cought": "Nope",
       "id": 450
     },
     {
-      "name": "skorupi",
+      "name": "skorupi", "cought": "Nope",
       "id": 451
     },
     {
-      "name": "drapion",
+      "name": "drapion", "cought": "Nope",
       "id": 452
     },
     {
-      "name": "croagunk",
+      "name": "croagunk", "cought": "Nope",
       "id": 453
     },
     {
-      "name": "toxicroak",
+      "name": "toxicroak", "cought": "Nope",
       "id": 454
     },
     {
-      "name": "carnivine",
+      "name": "carnivine", "cought": "Nope",
       "id": 455
     },
     {
-      "name": "finneon",
+      "name": "finneon", "cought": "Nope",
       "id": 456
     },
     {
-      "name": "lumineon",
+      "name": "lumineon", "cought": "Nope",
       "id": 457
     },
     {
-      "name": "mantyke",
+      "name": "mantyke", "cought": "Nope",
       "id": 458
     },
     {
-      "name": "snover",
+      "name": "snover", "cought": "Nope",
       "id": 459
     },
     {
-      "name": "abomasnow",
+      "name": "abomasnow", "cought": "Nope",
       "id": 460
     },
     {
-      "name": "weavile",
+      "name": "weavile", "cought": "Nope",
       "id": 461
     },
     {
-      "name": "magnezone",
+      "name": "magnezone", "cought": "Nope",
       "id": 462
     },
     {
-      "name": "lickilicky",
+      "name": "lickilicky", "cought": "Nope",
       "id": 463
     },
     {
-      "name": "rhyperior",
+      "name": "rhyperior", "cought": "Nope",
       "id": 464
     },
     {
-      "name": "tangrowth",
+      "name": "tangrowth", "cought": "Nope",
       "id": 465
     },
     {
-      "name": "electivire",
+      "name": "electivire", "cought": "Nope",
       "id": 466
     },
     {
-      "name": "magmortar",
+      "name": "magmortar", "cought": "Nope",
       "id": 467
     },
     {
-      "name": "togekiss",
+      "name": "togekiss", "cought": "Nope",
       "id": 468
     },
     {
-      "name": "yanmega",
+      "name": "yanmega", "cought": "Nope",
       "id": 469
     },
     {
-      "name": "leafeon",
+      "name": "leafeon", "cought": "Nope",
       "id": 470
     },
     {
-      "name": "glaceon",
+      "name": "glaceon", "cought": "Nope",
       "id": 471
     },
     {
-      "name": "gliscor",
+      "name": "gliscor", "cought": "Nope",
       "id": 472
     },
     {
-      "name": "mamoswine",
+      "name": "mamoswine", "cought": "Nope",
       "id": 473
     },
     {
-      "name": "porygon-z",
+      "name": "porygon-z", "cought": "Nope",
       "id": 474
     },
     {
-      "name": "gallade",
+      "name": "gallade", "cought": "Nope",
       "id": 475
     },
     {
-      "name": "probopass",
+      "name": "probopass", "cought": "Nope",
       "id": 476
     },
     {
-      "name": "dusknoir",
+      "name": "dusknoir", "cought": "Nope",
       "id": 477
     },
     {
-      "name": "froslass",
+      "name": "froslass", "cought": "Nope",
       "id": 478
     },
     {
-      "name": "rotom",
+      "name": "rotom", "cought": "Nope",
       "id": 479
     },
     {
-      "name": "uxie",
+      "name": "uxie", "cought": "Nope",
       "id": 480
     },
     {
-      "name": "mesprit",
+      "name": "mesprit", "cought": "Nope",
       "id": 481
     },
     {
-      "name": "azelf",
+      "name": "azelf", "cought": "Nope",
       "id": 482
     },
     {
-      "name": "dialga",
+      "name": "dialga", "cought": "Nope",
       "id": 483
     },
     {
-      "name": "palkia",
+      "name": "palkia", "cought": "Nope",
       "id": 484
     },
     {
-      "name": "heatran",
+      "name": "heatran", "cought": "Nope",
       "id": 485
     },
     {
-      "name": "regigigas",
+      "name": "regigigas", "cought": "Nope",
       "id": 486
     },
     {
-      "name": "giratina-altered",
+      "name": "giratina-altered", "cought": "Nope",
       "id": 487
     },
     {
-      "name": "cresselia",
+      "name": "cresselia", "cought": "Nope",
       "id": 488
     },
     {
-      "name": "phione",
+      "name": "phione", "cought": "Nope",
       "id": 489
     },
     {
-      "name": "manaphy",
+      "name": "manaphy", "cought": "Nope",
       "id": 490
     },
     {
-      "name": "darkrai",
+      "name": "darkrai", "cought": "Nope",
       "id": 491
     },
     {
-      "name": "shaymin-land",
+      "name": "shaymin-land", "cought": "Nope",
       "id": 492
     },
     {
-      "name": "arceus",
+      "name": "arceus", "cought": "Nope",
       "id": 493
     },
     {
-      "name": "victini",
+      "name": "victini", "cought": "Nope",
       "id": 494
     },
     {
-      "name": "snivy",
+      "name": "snivy", "cought": "Nope",
       "id": 495
     },
     {
-      "name": "servine",
+      "name": "servine", "cought": "Nope",
       "id": 496
     },
     {
-      "name": "serperior",
+      "name": "serperior", "cought": "Nope",
       "id": 497
     },
     {
-      "name": "tepig",
+      "name": "tepig", "cought": "Nope",
       "id": 498
     },
     {
-      "name": "pignite",
+      "name": "pignite", "cought": "Nope",
       "id": 499
     },
     {
-      "name": "emboar",
+      "name": "emboar", "cought": "Nope",
       "id": 500
     },
     {
-      "name": "oshawott",
+      "name": "oshawott", "cought": "Nope",
       "id": 501
     },
     {
-      "name": "dewott",
+      "name": "dewott", "cought": "Nope",
       "id": 502
     },
     {
-      "name": "samurott",
+      "name": "samurott", "cought": "Nope",
       "id": 503
     },
     {
-      "name": "patrat",
+      "name": "patrat", "cought": "Nope",
       "id": 504
     },
     {
-      "name": "watchog",
+      "name": "watchog", "cought": "Nope",
       "id": 505
     },
     {
-      "name": "lillipup",
+      "name": "lillipup", "cought": "Nope",
       "id": 506
     },
     {
-      "name": "herdier",
+      "name": "herdier", "cought": "Nope",
       "id": 507
     },
     {
-      "name": "stoutland",
+      "name": "stoutland", "cought": "Nope",
       "id": 508
     },
     {
-      "name": "purrloin",
+      "name": "purrloin", "cought": "Nope",
       "id": 509
     },
     {
-      "name": "liepard",
+      "name": "liepard", "cought": "Nope",
       "id": 510
     },
     {
-      "name": "pansage",
+      "name": "pansage", "cought": "Nope",
       "id": 511
     },
     {
-      "name": "simisage",
+      "name": "simisage", "cought": "Nope",
       "id": 512
     },
     {
-      "name": "pansear",
+      "name": "pansear", "cought": "Nope",
       "id": 513
     },
     {
-      "name": "simisear",
+      "name": "simisear", "cought": "Nope",
       "id": 514
     },
     {
-      "name": "panpour",
+      "name": "panpour", "cought": "Nope",
       "id": 515
     },
     {
-      "name": "simipour",
+      "name": "simipour", "cought": "Nope",
       "id": 516
     },
     {
-      "name": "munna",
+      "name": "munna", "cought": "Nope",
       "id": 517
     },
     {
-      "name": "musharna",
+      "name": "musharna", "cought": "Nope",
       "id": 518
     },
     {
-      "name": "pidove",
+      "name": "pidove", "cought": "Nope",
       "id": 519
     },
     {
-      "name": "tranquill",
+      "name": "tranquill", "cought": "Nope",
       "id": 520
     },
     {
-      "name": "unfezant",
+      "name": "unfezant", "cought": "Nope",
       "id": 521
     },
     {
-      "name": "blitzle",
+      "name": "blitzle", "cought": "Nope",
       "id": 522
     },
     {
-      "name": "zebstrika",
+      "name": "zebstrika", "cought": "Nope",
       "id": 523
     },
     {
-      "name": "roggenrola",
+      "name": "roggenrola", "cought": "Nope",
       "id": 524
     },
     {
-      "name": "boldore",
+      "name": "boldore", "cought": "Nope",
       "id": 525
     },
     {
-      "name": "gigalith",
+      "name": "gigalith", "cought": "Nope",
       "id": 526
     },
     {
-      "name": "woobat",
+      "name": "woobat", "cought": "Nope",
       "id": 527
     },
     {
-      "name": "swoobat",
+      "name": "swoobat", "cought": "Nope",
       "id": 528
     },
     {
-      "name": "drilbur",
+      "name": "drilbur", "cought": "Nope",
       "id": 529
     },
     {
-      "name": "excadrill",
+      "name": "excadrill", "cought": "Nope",
       "id": 530
     },
     {
-      "name": "audino",
+      "name": "audino", "cought": "Nope",
       "id": 531
     },
     {
-      "name": "timburr",
+      "name": "timburr", "cought": "Nope",
       "id": 532
     },
     {
-      "name": "gurdurr",
+      "name": "gurdurr", "cought": "Nope",
       "id": 533
     },
     {
-      "name": "conkeldurr",
+      "name": "conkeldurr", "cought": "Nope",
       "id": 534
     },
     {
-      "name": "tympole",
+      "name": "tympole", "cought": "Nope",
       "id": 535
     },
     {
-      "name": "palpitoad",
+      "name": "palpitoad", "cought": "Nope",
       "id": 536
     },
     {
-      "name": "seismitoad",
+      "name": "seismitoad", "cought": "Nope",
       "id": 537
     },
     {
-      "name": "throh",
+      "name": "throh", "cought": "Nope",
       "id": 538
     },
     {
-      "name": "sawk",
+      "name": "sawk", "cought": "Nope",
       "id": 539
     },
     {
-      "name": "sewaddle",
+      "name": "sewaddle", "cought": "Nope",
       "id": 540
     },
     {
-      "name": "swadloon",
+      "name": "swadloon", "cought": "Nope",
       "id": 541
     },
     {
-      "name": "leavanny",
+      "name": "leavanny", "cought": "Nope",
       "id": 542
     },
     {
-      "name": "venipede",
+      "name": "venipede", "cought": "Nope",
       "id": 543
     },
     {
-      "name": "whirlipede",
+      "name": "whirlipede", "cought": "Nope",
       "id": 544
     },
     {
-      "name": "scolipede",
+      "name": "scolipede", "cought": "Nope",
       "id": 545
     },
     {
-      "name": "cottonee",
+      "name": "cottonee", "cought": "Nope",
       "id": 546
     },
     {
-      "name": "whimsicott",
+      "name": "whimsicott", "cought": "Nope",
       "id": 547
     },
     {
-      "name": "petilil",
+      "name": "petilil", "cought": "Nope",
       "id": 548
     },
     {
-      "name": "lilligant",
+      "name": "lilligant", "cought": "Nope",
       "id": 549
     },
     {
-      "name": "basculin-red-striped",
+      "name": "basculin-red-striped", "cought": "Nope",
       "id": 550
     },
     {
-      "name": "sandile",
+      "name": "sandile", "cought": "Nope",
       "id": 551
     },
     {
-      "name": "krokorok",
+      "name": "krokorok", "cought": "Nope",
       "id": 552
     },
     {
-      "name": "krookodile",
+      "name": "krookodile", "cought": "Nope",
       "id": 553
     },
     {
-      "name": "darumaka",
+      "name": "darumaka", "cought": "Nope",
       "id": 554
     },
     {
-      "name": "darmanitan-standard",
+      "name": "darmanitan-standard", "cought": "Nope",
       "id": 555
     },
     {
-      "name": "maractus",
+      "name": "maractus", "cought": "Nope",
       "id": 556
     },
     {
-      "name": "dwebble",
+      "name": "dwebble", "cought": "Nope",
       "id": 557
     },
     {
-      "name": "crustle",
+      "name": "crustle", "cought": "Nope",
       "id": 558
     },
     {
-      "name": "scraggy",
+      "name": "scraggy", "cought": "Nope",
       "id": 559
     },
     {
-      "name": "scrafty",
+      "name": "scrafty", "cought": "Nope",
       "id": 560
     },
     {
-      "name": "sigilyph",
+      "name": "sigilyph", "cought": "Nope",
       "id": 561
     },
     {
-      "name": "yamask",
+      "name": "yamask", "cought": "Nope",
       "id": 562
     },
     {
-      "name": "cofagrigus",
+      "name": "cofagrigus", "cought": "Nope",
       "id": 563
     },
     {
-      "name": "tirtouga",
+      "name": "tirtouga", "cought": "Nope",
       "id": 564
     },
     {
-      "name": "carracosta",
+      "name": "carracosta", "cought": "Nope",
       "id": 565
     },
     {
-      "name": "archen",
+      "name": "archen", "cought": "Nope",
       "id": 566
     },
     {
-      "name": "archeops",
+      "name": "archeops", "cought": "Nope",
       "id": 567
     },
     {
-      "name": "trubbish",
+      "name": "trubbish", "cought": "Nope",
       "id": 568
     },
     {
-      "name": "garbodor",
+      "name": "garbodor", "cought": "Nope",
       "id": 569
     },
     {
-      "name": "zorua",
+      "name": "zorua", "cought": "Nope",
       "id": 570
     },
     {
-      "name": "zoroark",
+      "name": "zoroark", "cought": "Nope",
       "id": 571
     },
     {
-      "name": "minccino",
+      "name": "minccino", "cought": "Nope",
       "id": 572
     },
     {
-      "name": "cinccino",
+      "name": "cinccino", "cought": "Nope",
       "id": 573
     },
     {
-      "name": "gothita",
+      "name": "gothita", "cought": "Nope",
       "id": 574
     },
     {
-      "name": "gothorita",
+      "name": "gothorita", "cought": "Nope",
       "id": 575
     },
     {
-      "name": "gothitelle",
+      "name": "gothitelle", "cought": "Nope",
       "id": 576
     },
     {
-      "name": "solosis",
+      "name": "solosis", "cought": "Nope",
       "id": 577
     },
     {
-      "name": "duosion",
+      "name": "duosion", "cought": "Nope",
       "id": 578
     },
     {
-      "name": "reuniclus",
+      "name": "reuniclus", "cought": "Nope",
       "id": 579
     },
     {
-      "name": "ducklett",
+      "name": "ducklett", "cought": "Nope",
       "id": 580
     },
     {
-      "name": "swanna",
+      "name": "swanna", "cought": "Nope",
       "id": 581
     },
     {
-      "name": "vanillite",
+      "name": "vanillite", "cought": "Nope",
       "id": 582
     },
     {
-      "name": "vanillish",
+      "name": "vanillish", "cought": "Nope",
       "id": 583
     },
     {
-      "name": "vanilluxe",
+      "name": "vanilluxe", "cought": "Nope",
       "id": 584
     },
     {
-      "name": "deerling",
+      "name": "deerling", "cought": "Nope",
       "id": 585
     },
     {
-      "name": "sawsbuck",
+      "name": "sawsbuck", "cought": "Nope",
       "id": 586
     },
     {
-      "name": "emolga",
+      "name": "emolga", "cought": "Nope",
       "id": 587
     },
     {
-      "name": "karrablast",
+      "name": "karrablast", "cought": "Nope",
       "id": 588
     },
     {
-      "name": "escavalier",
+      "name": "escavalier", "cought": "Nope",
       "id": 589
     },
     {
-      "name": "foongus",
+      "name": "foongus", "cought": "Nope",
       "id": 590
     },
     {
-      "name": "amoonguss",
+      "name": "amoonguss", "cought": "Nope",
       "id": 591
     },
     {
-      "name": "frillish",
+      "name": "frillish", "cought": "Nope",
       "id": 592
     },
     {
-      "name": "jellicent",
+      "name": "jellicent", "cought": "Nope",
       "id": 593
     },
     {
-      "name": "alomomola",
+      "name": "alomomola", "cought": "Nope",
       "id": 594
     },
     {
-      "name": "joltik",
+      "name": "joltik", "cought": "Nope",
       "id": 595
     },
     {
-      "name": "galvantula",
+      "name": "galvantula", "cought": "Nope",
       "id": 596
     },
     {
-      "name": "ferroseed",
+      "name": "ferroseed", "cought": "Nope",
       "id": 597
     },
     {
-      "name": "ferrothorn",
+      "name": "ferrothorn", "cought": "Nope",
       "id": 598
     },
     {
-      "name": "klink",
+      "name": "klink", "cought": "Nope",
       "id": 599
     },
     {
-      "name": "klang",
+      "name": "klang", "cought": "Nope",
       "id": 600
     },
     {
-      "name": "klinklang",
+      "name": "klinklang", "cought": "Nope",
       "id": 601
     },
     {
-      "name": "tynamo",
+      "name": "tynamo", "cought": "Nope",
       "id": 602
     },
     {
-      "name": "eelektrik",
+      "name": "eelektrik", "cought": "Nope",
       "id": 603
     },
     {
-      "name": "eelektross",
+      "name": "eelektross", "cought": "Nope",
       "id": 604
     },
     {
-      "name": "elgyem",
+      "name": "elgyem", "cought": "Nope",
       "id": 605
     },
     {
-      "name": "beheeyem",
+      "name": "beheeyem", "cought": "Nope",
       "id": 606
     },
     {
-      "name": "litwick",
+      "name": "litwick", "cought": "Nope",
       "id": 607
     },
     {
-      "name": "lampent",
+      "name": "lampent", "cought": "Nope",
       "id": 608
     },
     {
-      "name": "chandelure",
+      "name": "chandelure", "cought": "Nope",
       "id": 609
     },
     {
-      "name": "axew",
+      "name": "axew", "cought": "Nope",
       "id": 610
     },
     {
-      "name": "fraxure",
+      "name": "fraxure", "cought": "Nope",
       "id": 611
     },
     {
-      "name": "haxorus",
+      "name": "haxorus", "cought": "Nope",
       "id": 612
     },
     {
-      "name": "cubchoo",
+      "name": "cubchoo", "cought": "Nope",
       "id": 613
     },
     {
-      "name": "beartic",
+      "name": "beartic", "cought": "Nope",
       "id": 614
     },
     {
-      "name": "cryogonal",
+      "name": "cryogonal", "cought": "Nope",
       "id": 615
     },
     {
-      "name": "shelmet",
+      "name": "shelmet", "cought": "Nope",
       "id": 616
     },
     {
-      "name": "accelgor",
+      "name": "accelgor", "cought": "Nope",
       "id": 617
     },
     {
-      "name": "stunfisk",
+      "name": "stunfisk", "cought": "Nope",
       "id": 618
     },
     {
-      "name": "mienfoo",
+      "name": "mienfoo", "cought": "Nope",
       "id": 619
     },
     {
-      "name": "mienshao",
+      "name": "mienshao", "cought": "Nope",
       "id": 620
     },
     {
-      "name": "druddigon",
+      "name": "druddigon", "cought": "Nope",
       "id": 621
     },
     {
-      "name": "golett",
+      "name": "golett", "cought": "Nope",
       "id": 622
     },
     {
-      "name": "golurk",
+      "name": "golurk", "cought": "Nope",
       "id": 623
     },
     {
-      "name": "pawniard",
+      "name": "pawniard", "cought": "Nope",
       "id": 624
     },
     {
-      "name": "bisharp",
+      "name": "bisharp", "cought": "Nope",
       "id": 625
     },
     {
-      "name": "bouffalant",
+      "name": "bouffalant", "cought": "Nope",
       "id": 626
     },
     {
-      "name": "rufflet",
+      "name": "rufflet", "cought": "Nope",
       "id": 627
     },
     {
-      "name": "braviary",
+      "name": "braviary", "cought": "Nope",
       "id": 628
     },
     {
-      "name": "vullaby",
+      "name": "vullaby", "cought": "Nope",
       "id": 629
     },
     {
-      "name": "mandibuzz",
+      "name": "mandibuzz", "cought": "Nope",
       "id": 630
     },
     {
-      "name": "heatmor",
+      "name": "heatmor", "cought": "Nope",
       "id": 631
     },
     {
-      "name": "durant",
+      "name": "durant", "cought": "Nope",
       "id": 632
     },
     {
-      "name": "deino",
+      "name": "deino", "cought": "Nope",
       "id": 633
     },
     {
-      "name": "zweilous",
+      "name": "zweilous", "cought": "Nope",
       "id": 634
     },
     {
-      "name": "hydreigon",
+      "name": "hydreigon", "cought": "Nope",
       "id": 635
     },
     {
-      "name": "larvesta",
+      "name": "larvesta", "cought": "Nope",
       "id": 636
     },
     {
-      "name": "volcarona",
+      "name": "volcarona", "cought": "Nope",
       "id": 637
     },
     {
-      "name": "cobalion",
+      "name": "cobalion", "cought": "Nope",
       "id": 638
     },
     {
-      "name": "terrakion",
+      "name": "terrakion", "cought": "Nope",
       "id": 639
     },
     {
-      "name": "virizion",
+      "name": "virizion", "cought": "Nope",
       "id": 640
     },
     {
-      "name": "tornadus-incarnate",
+      "name": "tornadus-incarnate", "cought": "Nope",
       "id": 641
     },
     {
-      "name": "thundurus-incarnate",
+      "name": "thundurus-incarnate", "cought": "Nope",
       "id": 642
     },
     {
-      "name": "reshiram",
+      "name": "reshiram", "cought": "Nope",
       "id": 643
     },
     {
-      "name": "zekrom",
+      "name": "zekrom", "cought": "Nope",
       "id": 644
     },
     {
-      "name": "landorus-incarnate",
+      "name": "landorus-incarnate", "cought": "Nope",
       "id": 645
     },
     {
-      "name": "kyurem",
+      "name": "kyurem", "cought": "Nope",
       "id": 646
     },
     {
-      "name": "keldeo-ordinary",
+      "name": "keldeo-ordinary", "cought": "Nope",
       "id": 647
     },
     {
-      "name": "meloetta-aria",
+      "name": "meloetta-aria", "cought": "Nope",
       "id": 648
     },
     {
-      "name": "genesect",
+      "name": "genesect", "cought": "Nope",
       "id": 649
     },
     {
-      "name": "chespin",
+      "name": "chespin", "cought": "Nope",
       "id": 650
     },
     {
-      "name": "quilladin",
+      "name": "quilladin", "cought": "Nope",
       "id": 651
     },
     {
-      "name": "chesnaught",
+      "name": "chesnaught", "cought": "Nope",
       "id": 652
     },
     {
-      "name": "fennekin",
+      "name": "fennekin", "cought": "Nope",
       "id": 653
     },
     {
-      "name": "braixen",
+      "name": "braixen", "cought": "Nope",
       "id": 654
     },
     {
-      "name": "delphox",
+      "name": "delphox", "cought": "Nope",
       "id": 655
     },
     {
-      "name": "froakie",
+      "name": "froakie", "cought": "Nope",
       "id": 656
     },
     {
-      "name": "frogadier",
+      "name": "frogadier", "cought": "Nope",
       "id": 657
     },
     {
-      "name": "greninja",
+      "name": "greninja", "cought": "Nope",
       "id": 658
     },
     {
-      "name": "bunnelby",
+      "name": "bunnelby", "cought": "Nope",
       "id": 659
     },
     {
-      "name": "diggersby",
+      "name": "diggersby", "cought": "Nope",
       "id": 660
     },
     {
-      "name": "fletchling",
+      "name": "fletchling", "cought": "Nope",
       "id": 661
     },
     {
-      "name": "fletchinder",
+      "name": "fletchinder", "cought": "Nope",
       "id": 662
     },
     {
-      "name": "talonflame",
+      "name": "talonflame", "cought": "Nope",
       "id": 663
     },
     {
-      "name": "scatterbug",
+      "name": "scatterbug", "cought": "Nope",
       "id": 664
     },
     {
-      "name": "spewpa",
+      "name": "spewpa", "cought": "Nope",
       "id": 665
     },
     {
-      "name": "vivillon",
+      "name": "vivillon", "cought": "Nope",
       "id": 666
     },
     {
-      "name": "litleo",
+      "name": "litleo", "cought": "Nope",
       "id": 667
     },
     {
-      "name": "pyroar",
+      "name": "pyroar", "cought": "Nope",
       "id": 668
     },
     {
-      "name": "flabebe",
+      "name": "flabebe", "cought": "Nope",
       "id": 669
     },
     {
-      "name": "floette",
+      "name": "floette", "cought": "Nope",
       "id": 670
     },
     {
-      "name": "florges",
+      "name": "florges", "cought": "Nope",
       "id": 671
     },
     {
-      "name": "skiddo",
+      "name": "skiddo", "cought": "Nope",
       "id": 672
     },
     {
-      "name": "gogoat",
+      "name": "gogoat", "cought": "Nope",
       "id": 673
     },
     {
-      "name": "pancham",
+      "name": "pancham", "cought": "Nope",
       "id": 674
     },
     {
-      "name": "pangoro",
+      "name": "pangoro", "cought": "Nope",
       "id": 675
     },
     {
-      "name": "furfrou",
+      "name": "furfrou", "cought": "Nope",
       "id": 676
     },
     {
-      "name": "espurr",
+      "name": "espurr", "cought": "Nope",
       "id": 677
     },
     {
-      "name": "meowstic-male",
+      "name": "meowstic-male", "cought": "Nope",
       "id": 678
     },
     {
-      "name": "honedge",
+      "name": "honedge", "cought": "Nope",
       "id": 679
     },
     {
-      "name": "doublade",
+      "name": "doublade", "cought": "Nope",
       "id": 680
     },
     {
-      "name": "aegislash-shield",
+      "name": "aegislash-shield", "cought": "Nope",
       "id": 681
     },
     {
-      "name": "spritzee",
+      "name": "spritzee", "cought": "Nope",
       "id": 682
     },
     {
-      "name": "aromatisse",
+      "name": "aromatisse", "cought": "Nope",
       "id": 683
     },
     {
-      "name": "swirlix",
+      "name": "swirlix", "cought": "Nope",
       "id": 684
     },
     {
-      "name": "slurpuff",
+      "name": "slurpuff", "cought": "Nope",
       "id": 685
     },
     {
-      "name": "inkay",
+      "name": "inkay", "cought": "Nope",
       "id": 686
     },
     {
-      "name": "malamar",
+      "name": "malamar", "cought": "Nope",
       "id": 687
     },
     {
-      "name": "binacle",
+      "name": "binacle", "cought": "Nope",
       "id": 688
     },
     {
-      "name": "barbaracle",
+      "name": "barbaracle", "cought": "Nope",
       "id": 689
     },
     {
-      "name": "skrelp",
+      "name": "skrelp", "cought": "Nope",
       "id": 690
     },
     {
-      "name": "dragalge",
+      "name": "dragalge", "cought": "Nope",
       "id": 691
     },
     {
-      "name": "clauncher",
+      "name": "clauncher", "cought": "Nope",
       "id": 692
     },
     {
-      "name": "clawitzer",
+      "name": "clawitzer", "cought": "Nope",
       "id": 693
     },
     {
-      "name": "helioptile",
+      "name": "helioptile", "cought": "Nope",
       "id": 694
     },
     {
-      "name": "heliolisk",
+      "name": "heliolisk", "cought": "Nope",
       "id": 695
     },
     {
-      "name": "tyrunt",
+      "name": "tyrunt", "cought": "Nope",
       "id": 696
     },
     {
-      "name": "tyrantrum",
+      "name": "tyrantrum", "cought": "Nope",
       "id": 697
     },
     {
-      "name": "amaura",
+      "name": "amaura", "cought": "Nope",
       "id": 698
     },
     {
-      "name": "aurorus",
+      "name": "aurorus", "cought": "Nope",
       "id": 699
     },
     {
-      "name": "sylveon",
+      "name": "sylveon", "cought": "Nope",
       "id": 700
     },
     {
-      "name": "hawlucha",
+      "name": "hawlucha", "cought": "Nope",
       "id": 701
     },
     {
-      "name": "dedenne",
+      "name": "dedenne", "cought": "Nope",
       "id": 702
     },
     {
-      "name": "carbink",
+      "name": "carbink", "cought": "Nope",
       "id": 703
     },
     {
-      "name": "goomy",
+      "name": "goomy", "cought": "Nope",
       "id": 704
     },
     {
-      "name": "sliggoo",
+      "name": "sliggoo", "cought": "Nope",
       "id": 705
     },
     {
-      "name": "goodra",
+      "name": "goodra", "cought": "Nope",
       "id": 706
     },
     {
-      "name": "klefki",
+      "name": "klefki", "cought": "Nope",
       "id": 707
     },
     {
-      "name": "phantump",
+      "name": "phantump", "cought": "Nope",
       "id": 708
     },
     {
-      "name": "trevenant",
+      "name": "trevenant", "cought": "Nope",
       "id": 709
     },
     {
-      "name": "pumpkaboo-average",
+      "name": "pumpkaboo-average", "cought": "Nope",
       "id": 710
     },
     {
-      "name": "gourgeist-average",
+      "name": "gourgeist-average", "cought": "Nope",
       "id": 711
     },
     {
-      "name": "bergmite",
+      "name": "bergmite", "cought": "Nope",
       "id": 712
     },
     {
-      "name": "avalugg",
+      "name": "avalugg", "cought": "Nope",
       "id": 713
     },
     {
-      "name": "noibat",
+      "name": "noibat", "cought": "Nope",
       "id": 714
     },
     {
-      "name": "noivern",
+      "name": "noivern", "cought": "Nope",
       "id": 715
     },
     {
-      "name": "xerneas",
+      "name": "xerneas", "cought": "Nope",
       "id": 716
     },
     {
-      "name": "yveltal",
+      "name": "yveltal", "cought": "Nope",
       "id": 717
     },
     {
-      "name": "zygarde",
+      "name": "zygarde", "cought": "Nope",
       "id": 718
     },
     {
-      "name": "diancie",
+      "name": "diancie", "cought": "Nope",
       "id": 719
     },
     {
-      "name": "hoopa",
+      "name": "hoopa", "cought": "Nope",
       "id": 720
-    },
-    {
-      "name": "volcanion",
-      "id": 721
-    },
-    {
-      "name": "rowlet",
-      "id": 722
-    },
-    {
-      "name": "dartrix",
-      "id": 723
-    },
-    {
-      "name": "decidueye",
-      "id": 724
-    },
-    {
-      "name": "litten",
-      "id": 725
-    },
-    {
-      "name": "torracat",
-      "id": 726
-    },
-    {
-      "name": "incineroar",
-      "id": 727
-    },
-    {
-      "name": "popplio",
-      "id": 728
-    },
-    {
-      "name": "brionne",
-      "id": 729
-    },
-    {
-      "name": "primarina",
-      "id": 730
-    },
-    {
-      "name": "pikipek",
-      "id": 731
-    },
-    {
-      "name": "trumbeak",
-      "id": 732
-    },
-    {
-      "name": "toucannon",
-      "id": 733
-    },
-    {
-      "name": "yungoos",
-      "id": 734
-    },
-    {
-      "name": "gumshoos",
-      "id": 735
-    },
-    {
-      "name": "grubbin",
-      "id": 736
-    },
-    {
-      "name": "charjabug",
-      "id": 737
-    },
-    {
-      "name": "vikavolt",
-      "id": 738
-    },
-    {
-      "name": "crabrawler",
-      "id": 739
-    },
-    {
-      "name": "crabominable",
-      "id": 740
-    },
-    {
-      "name": "oricorio-baile",
-      "id": 741
-    },
-    {
-      "name": "cutiefly",
-      "id": 742
-    },
-    {
-      "name": "ribombee",
-      "id": 743
-    },
-    {
-      "name": "rockruff",
-      "id": 744
-    },
-    {
-      "name": "lycanroc-midday",
-      "id": 745
-    },
-    {
-      "name": "wishiwashi-solo",
-      "id": 746
-    },
-    {
-      "name": "mareanie",
-      "id": 747
-    },
-    {
-      "name": "toxapex",
-      "id": 748
-    },
-    {
-      "name": "mudbray",
-      "id": 749
-    },
-    {
-      "name": "mudsdale",
-      "id": 750
-    },
-    {
-      "name": "dewpider",
-      "id": 751
-    },
-    {
-      "name": "araquanid",
-      "id": 752
-    },
-    {
-      "name": "fomantis",
-      "id": 753
-    },
-    {
-      "name": "lurantis",
-      "id": 754
-    },
-    {
-      "name": "morelull",
-      "id": 755
-    },
-    {
-      "name": "shiinotic",
-      "id": 756
-    },
-    {
-      "name": "salandit",
-      "id": 757
-    },
-    {
-      "name": "salazzle",
-      "id": 758
-    },
-    {
-      "name": "stufful",
-      "id": 759
-    },
-    {
-      "name": "bewear",
-      "id": 760
-    },
-    {
-      "name": "bounsweet",
-      "id": 761
-    },
-    {
-      "name": "steenee",
-      "id": 762
-    },
-    {
-      "name": "tsareena",
-      "id": 763
-    },
-    {
-      "name": "comfey",
-      "id": 764
-    },
-    {
-      "name": "oranguru",
-      "id": 765
-    },
-    {
-      "name": "passimian",
-      "id": 766
-    },
-    {
-      "name": "wimpod",
-      "id": 767
-    },
-    {
-      "name": "golisopod",
-      "id": 768
-    },
-    {
-      "name": "sandygast",
-      "id": 769
-    },
-    {
-      "name": "palossand",
-      "id": 770
-    },
-    {
-      "name": "pyukumuku",
-      "id": 771
-    },
-    {
-      "name": "type-null",
-      "id": 772
-    },
-    {
-      "name": "silvally",
-      "id": 773
-    },
-    {
-      "name": "minior-red-meteor",
-      "id": 774
-    },
-    {
-      "name": "komala",
-      "id": 775
-    },
-    {
-      "name": "turtonator",
-      "id": 776
-    },
-    {
-      "name": "togedemaru",
-      "id": 777
-    },
-    {
-      "name": "mimikyu-disguised",
-      "id": 778
-    },
-    {
-      "name": "bruxish",
-      "id": 779
-    },
-    {
-      "name": "drampa",
-      "id": 780
-    },
-    {
-      "name": "dhelmise",
-      "id": 781
-    },
-    {
-      "name": "jangmo-o",
-      "id": 782
-    },
-    {
-      "name": "hakamo-o",
-      "id": 783
-    },
-    {
-      "name": "kommo-o",
-      "id": 784
-    },
-    {
-      "name": "tapu-koko",
-      "id": 785
-    },
-    {
-      "name": "tapu-lele",
-      "id": 786
-    },
-    {
-      "name": "tapu-bulu",
-      "id": 787
-    },
-    {
-      "name": "tapu-fini",
-      "id": 788
-    },
-    {
-      "name": "cosmog",
-      "id": 789
-    },
-    {
-      "name": "cosmoem",
-      "id": 790
-    },
-    {
-      "name": "solgaleo",
-      "id": 791
-    },
-    {
-      "name": "lunala",
-      "id": 792
-    },
-    {
-      "name": "nihilego",
-      "id": 793
-    },
-    {
-      "name": "buzzwole",
-      "id": 794
-    },
-    {
-      "name": "pheromosa",
-      "id": 795
-    },
-    {
-      "name": "xurkitree",
-      "id": 796
-    },
-    {
-      "name": "celesteela",
-      "id": 797
-    },
-    {
-      "name": "kartana",
-      "id": 798
-    },
-    {
-      "name": "guzzlord",
-      "id": 799
-    },
-    {
-      "name": "necrozma",
-      "id": 800
-    },
-    {
-      "name": "magearna",
-      "id": 801
-    },
-    {
-      "name": "marshadow",
-      "id": 802
-    },
-    {
-      "name": "deoxys-attack",
-      "id": 10001
-    },
-    {
-      "name": "deoxys-defense",
-      "id": 10002
-    },
-    {
-      "name": "deoxys-speed",
-      "id": 10003
-    },
-    {
-      "name": "wormadam-sandy",
-      "id": 10004
-    },
-    {
-      "name": "wormadam-trash",
-      "id": 10005
-    },
-    {
-      "name": "shaymin-sky",
-      "id": 10006
-    },
-    {
-      "name": "giratina-origin",
-      "id": 10007
-    },
-    {
-      "name": "rotom-heat",
-      "id": 10008
-    },
-    {
-      "name": "rotom-wash",
-      "id": 10009
-    },
-    {
-      "name": "rotom-frost",
-      "id": 10010
-    },
-    {
-      "name": "rotom-fan",
-      "id": 10011
-    },
-    {
-      "name": "rotom-mow",
-      "id": 10012
-    },
-    {
-      "name": "castform-sunny",
-      "id": 10013
-    },
-    {
-      "name": "castform-rainy",
-      "id": 10014
-    },
-    {
-      "name": "castform-snowy",
-      "id": 10015
-    },
-    {
-      "name": "basculin-blue-striped",
-      "id": 10016
-    },
-    {
-      "name": "darmanitan-zen",
-      "id": 10017
-    },
-    {
-      "name": "meloetta-pirouette",
-      "id": 10018
-    },
-    {
-      "name": "tornadus-therian",
-      "id": 10019
-    },
-    {
-      "name": "thundurus-therian",
-      "id": 10020
-    },
-    {
-      "name": "landorus-therian",
-      "id": 10021
-    },
-    {
-      "name": "kyurem-black",
-      "id": 10022
-    },
-    {
-      "name": "kyurem-white",
-      "id": 10023
-    },
-    {
-      "name": "keldeo-resolute",
-      "id": 10024
-    },
-    {
-      "name": "meowstic-female",
-      "id": 10025
-    },
-    {
-      "name": "aegislash-blade",
-      "id": 10026
-    },
-    {
-      "name": "pumpkaboo-small",
-      "id": 10027
-    },
-    {
-      "name": "pumpkaboo-large",
-      "id": 10028
-    },
-    {
-      "name": "pumpkaboo-super",
-      "id": 10029
-    },
-    {
-      "name": "gourgeist-small",
-      "id": 10030
-    },
-    {
-      "name": "gourgeist-large",
-      "id": 10031
-    },
-    {
-      "name": "gourgeist-super",
-      "id": 10032
-    },
-    {
-      "name": "venusaur-mega",
-      "id": 10033
-    },
-    {
-      "name": "charizard-mega-x",
-      "id": 10034
-    },
-    {
-      "name": "charizard-mega-y",
-      "id": 10035
-    },
-    {
-      "name": "blastoise-mega",
-      "id": 10036
-    },
-    {
-      "name": "alakazam-mega",
-      "id": 10037
-    },
-    {
-      "name": "gengar-mega",
-      "id": 10038
-    },
-    {
-      "name": "kangaskhan-mega",
-      "id": 10039
-    },
-    {
-      "name": "pinsir-mega",
-      "id": 10040
-    },
-    {
-      "name": "gyarados-mega",
-      "id": 10041
-    },
-    {
-      "name": "aerodactyl-mega",
-      "id": 10042
-    },
-    {
-      "name": "mewtwo-mega-x",
-      "id": 10043
-    },
-    {
-      "name": "mewtwo-mega-y",
-      "id": 10044
-    },
-    {
-      "name": "ampharos-mega",
-      "id": 10045
-    },
-    {
-      "name": "scizor-mega",
-      "id": 10046
-    },
-    {
-      "name": "heracross-mega",
-      "id": 10047
-    },
-    {
-      "name": "houndoom-mega",
-      "id": 10048
-    },
-    {
-      "name": "tyranitar-mega",
-      "id": 10049
-    },
-    {
-      "name": "blaziken-mega",
-      "id": 10050
-    },
-    {
-      "name": "gardevoir-mega",
-      "id": 10051
-    },
-    {
-      "name": "mawile-mega",
-      "id": 10052
-    },
-    {
-      "name": "aggron-mega",
-      "id": 10053
-    },
-    {
-      "name": "medicham-mega",
-      "id": 10054
-    },
-    {
-      "name": "manectric-mega",
-      "id": 10055
-    },
-    {
-      "name": "banette-mega",
-      "id": 10056
-    },
-    {
-      "name": "absol-mega",
-      "id": 10057
-    },
-    {
-      "name": "garchomp-mega",
-      "id": 10058
-    },
-    {
-      "name": "lucario-mega",
-      "id": 10059
-    },
-    {
-      "name": "abomasnow-mega",
-      "id": 10060
-    },
-    {
-      "name": "floette-eternal",
-      "id": 10061
-    },
-    {
-      "name": "latias-mega",
-      "id": 10062
-    },
-    {
-      "name": "latios-mega",
-      "id": 10063
-    },
-    {
-      "name": "swampert-mega",
-      "id": 10064
-    },
-    {
-      "name": "sceptile-mega",
-      "id": 10065
-    },
-    {
-      "name": "sableye-mega",
-      "id": 10066
-    },
-    {
-      "name": "altaria-mega",
-      "id": 10067
-    },
-    {
-      "name": "gallade-mega",
-      "id": 10068
-    },
-    {
-      "name": "audino-mega",
-      "id": 10069
-    },
-    {
-      "name": "sharpedo-mega",
-      "id": 10070
-    },
-    {
-      "name": "slowbro-mega",
-      "id": 10071
-    },
-    {
-      "name": "steelix-mega",
-      "id": 10072
-    },
-    {
-      "name": "pidgeot-mega",
-      "id": 10073
-    },
-    {
-      "name": "glalie-mega",
-      "id": 10074
-    },
-    {
-      "name": "diancie-mega",
-      "id": 10075
-    },
-    {
-      "name": "metagross-mega",
-      "id": 10076
-    },
-    {
-      "name": "kyogre-primal",
-      "id": 10077
-    },
-    {
-      "name": "groudon-primal",
-      "id": 10078
-    },
-    {
-      "name": "rayquaza-mega",
-      "id": 10079
-    },
-    {
-      "name": "pikachu-rock-star",
-      "id": 10080
-    },
-    {
-      "name": "pikachu-belle",
-      "id": 10081
-    },
-    {
-      "name": "pikachu-pop-star",
-      "id": 10082
-    },
-    {
-      "name": "pikachu-phd",
-      "id": 10083
-    },
-    {
-      "name": "pikachu-libre",
-      "id": 10084
-    },
-    {
-      "name": "pikachu-cosplay",
-      "id": 10085
-    },
-    {
-      "name": "hoopa-unbound",
-      "id": 10086
-    },
-    {
-      "name": "camerupt-mega",
-      "id": 10087
-    },
-    {
-      "name": "lopunny-mega",
-      "id": 10088
-    },
-    {
-      "name": "salamence-mega",
-      "id": 10089
-    },
-    {
-      "name": "beedrill-mega",
-      "id": 10090
-    },
-    {
-      "name": "rattata-alola",
-      "id": 10091
-    },
-    {
-      "name": "raticate-alola",
-      "id": 10092
-    },
-    {
-      "name": "raticate-totem-alola",
-      "id": 10093
-    },
-    {
-      "name": "pikachu-original-cap",
-      "id": 10094
-    },
-    {
-      "name": "pikachu-hoenn-cap",
-      "id": 10095
-    },
-    {
-      "name": "pikachu-sinnoh-cap",
-      "id": 10096
-    },
-    {
-      "name": "pikachu-unova-cap",
-      "id": 10097
-    },
-    {
-      "name": "pikachu-kalos-cap",
-      "id": 10098
-    },
-    {
-      "name": "pikachu-alola-cap",
-      "id": 10099
-    },
-    {
-      "name": "raichu-alola",
-      "id": 10100
-    },
-    {
-      "name": "sandshrew-alola",
-      "id": 10101
-    },
-    {
-      "name": "sandslash-alola",
-      "id": 10102
-    },
-    {
-      "name": "vulpix-alola",
-      "id": 10103
-    },
-    {
-      "name": "ninetales-alola",
-      "id": 10104
-    },
-    {
-      "name": "diglett-alola",
-      "id": 10105
-    },
-    {
-      "name": "dugtrio-alola",
-      "id": 10106
-    },
-    {
-      "name": "meowth-alola",
-      "id": 10107
-    },
-    {
-      "name": "persian-alola",
-      "id": 10108
-    },
-    {
-      "name": "geodude-alola",
-      "id": 10109
-    },
-    {
-      "name": "graveler-alola",
-      "id": 10110
-    },
-    {
-      "name": "golem-alola",
-      "id": 10111
-    },
-    {
-      "name": "grimer-alola",
-      "id": 10112
-    },
-    {
-      "name": "muk-alola",
-      "id": 10113
-    },
-    {
-      "name": "exeggutor-alola",
-      "id": 10114
-    },
-    {
-      "name": "marowak-alola",
-      "id": 10115
-    },
-    {
-      "name": "greninja-battle-bond",
-      "id": 10116
-    },
-    {
-      "name": "greninja-ash",
-      "id": 10117
-    },
-    {
-      "name": "zygarde-10",
-      "id": 10118
-    },
-    {
-      "name": "zygarde-50",
-      "id": 10119
-    },
-    {
-      "name": "zygarde-complete",
-      "id": 10120
-    },
-    {
-      "name": "gumshoos-totem",
-      "id": 10121
-    },
-    {
-      "name": "vikavolt-totem",
-      "id": 10122
-    },
-    {
-      "name": "oricorio-pom-pom",
-      "id": 10123
-    },
-    {
-      "name": "oricorio-pau",
-      "id": 10124
-    },
-    {
-      "name": "oricorio-sensu",
-      "id": 10125
-    },
-    {
-      "name": "lycanroc-midnight",
-      "id": 10126
-    },
-    {
-      "name": "wishiwashi-school",
-      "id": 10127
-    },
-    {
-      "name": "lurantis-totem",
-      "id": 10128
-    },
-    {
-      "name": "salazzle-totem",
-      "id": 10129
-    },
-    {
-      "name": "minior-orange-meteor",
-      "id": 10130
-    },
-    {
-      "name": "minior-yellow-meteor",
-      "id": 10131
-    },
-    {
-      "name": "minior-green-meteor",
-      "id": 10132
-    },
-    {
-      "name": "minior-blue-meteor",
-      "id": 10133
-    },
-    {
-      "name": "minior-indigo-meteor",
-      "id": 10134
-    },
-    {
-      "name": "minior-violet-meteor",
-      "id": 10135
-    },
-    {
-      "name": "minior-red",
-      "id": 10136
-    },
-    {
-      "name": "minior-orange",
-      "id": 10137
-    },
-    {
-      "name": "minior-yellow",
-      "id": 10138
-    },
-    {
-      "name": "minior-green",
-      "id": 10139
-    },
-    {
-      "name": "minior-blue",
-      "id": 10140
-    },
-    {
-      "name": "minior-indigo",
-      "id": 10141
-    },
-    {
-      "name": "minior-violet",
-      "id": 10142
-    },
-    {
-      "name": "mimikyu-busted",
-      "id": 10143
-    },
-    {
-      "name": "mimikyu-totem-disguised",
-      "id": 10144
-    },
-    {
-      "name": "mimikyu-totem-busted",
-      "id": 10145
-    },
-    {
-      "name": "kommo-o-totem",
-      "id": 10146
-    },
-    {
-      "name": "magearna-original",
-      "id": 10147
     }
   ]
 }

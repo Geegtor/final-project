@@ -1,0 +1,57 @@
+.pokemon-card {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+  align-items: center;
+
+  max-height: 290px;
+  max-width: 200px;
+  width: 100%;
+
+  background-color: white;
+  color: black;
+
+  padding: 30px 10px;
+  margin: 10px 10px;
+  border: 5px solid green;
+
+  &__image {
+    max-height: 200px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    img {
+      object-fit: contain;
+      max-height: 150px;
+      max-width: 200px;
+      border: 1px solid black;
+      box-shadow: 0px 5px 40px-10px rgba(0, 0, 0, 0.57);
+    }
+  }
+
+  h4 {
+    margin-top: auto;
+  }
+
+  button {
+    margin-top: auto;
+    transform: translateY(20px);
+  }
+
+  p {
+    margin: 5px 0px;
+  }
+}
+
+.pagination{
+  width: 100%;
+  display:flex;
+  margin:auto;
+  padding:0;
+  justify-content: space-between;
+  list-style: none;     
+  border: 1 px solid black;
+}
